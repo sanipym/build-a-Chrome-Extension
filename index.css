@@ -20,3 +20,14 @@ button {
     border: none;
     font-weight: bold;
 }
+
+#box {
+    cursor: pointer;
+    background: lightseagreen;
+    padding: 40px;
+    width: 200px;
+    text-align: center;
+    margin: 20px auto;
+    color: white;
+    font-weight: bold;
+}
